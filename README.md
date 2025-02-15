@@ -1,6 +1,5 @@
-Aqui está um modelo de README para o seu projeto:
-
 ```markdown
+
 # Sistema de Gestão de Clientes
 
 Este é um sistema simples de cadastro de clientes, desenvolvido em Python, utilizando a biblioteca `customtkinter` para a criação da interface gráfica. O objetivo principal é permitir o registro de informações essenciais sobre os clientes, como nome, contato, idade, gênero, endereço e observações adicionais, além de armazenar esses dados em um arquivo Excel.
@@ -79,9 +78,4 @@ Se você deseja contribuir para este projeto, siga as etapas abaixo:
 4. Envie suas alterações (`git push origin feature/nova-funcionalidade`).
 5. Abra um Pull Request.
 
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
-
-Este README proporciona uma descrição completa e acessível do seu projeto, incluindo as tecnologias utilizadas, as instruções de uso e como colaborar no desenvolvimento.
+Link da aula do projeto : https://www.youtube.com/watch?v=Oq2ekGfKmx8
